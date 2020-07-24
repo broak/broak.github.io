@@ -1,11 +1,13 @@
-## On track to complete my PhD by the end of 2020 
-  
+## _On track to complete my PhD by the end of 2020_
+
+### Education:
+
 ### Skills:
-Expert:   
-    MATLAB, Statistics, Microsoft Office, Adobe Photoshop  
-Adept:  
-    Python, SQL, Github, High Performance Computing, Bash  
-Babby:  
-    Tableau
+_Expert:_   
+*   MATLAB, Statistics, Microsoft Office, Adobe Photoshop  
+_Adept:_ 
+*   Python, SQL, Github, High Performance Computing, Bash  
+_Babby:_  
+*   Tableau
     
 More to come ...
