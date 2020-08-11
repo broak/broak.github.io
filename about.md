@@ -2,7 +2,8 @@
 title: About
 layout: page
 ---
-![Profile Image]({% if site.external-image %}{{ site.picture }}{% else %}{{ site.url }}/{{ site.picture }}{% endif %})
+<!-- ![Profile Image]({% if site.external-image %}{{ site.picture }}{% else %}{{ site.url }}/{{ site.picture }}{% endif %}) -->
+![Me looking at a computer, like I can't believe what I'm seeing, with a Snapchat filter of a puppy on my face](../assets/images/profile2.jpg)
 
 <br>
 I'm a computational neuroscientist by training, where I specialise in performing time-series analyses of complex neural data. In my research, I'm interested in how visual information is encoded and transformed within the brain, and more broadly, how interconnected cortical areas communicate in an efficient and selective manner.<br>

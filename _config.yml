@@ -2,8 +2,13 @@
 name: Brian Oakley
 bio: neural data scientist, AR/VR evangelist, professional nerd
 
+# jekyll-seo-tag
+title: Brian Oakley
+author: Brian Oakley
+image: assets/images/profile_full.jpg
+
 # twitter summary info
-description: neural data scientist, AR/VR evangelist, professional nerd
+description: Computational Neuroscientist, AR/VR Enthusiast, Professional Nerd
 
 # if it's an external image, update below for true
 # better with square images
