@@ -6,7 +6,7 @@ layout: page
 <header class="header-resume {% if site.animation %}animated{% endif %}">
 
 <a class="link">
-    <img class="selfie" alt="Me looking at a computer, like I can't believe what I'm seeing, with a Snapchat filter of a puppy on my face" src="../assets/images/sfn_poster.jpg" />
+    <img class="selfie" src="../assets/images/sfn_poster.png" />
 </a>
 <h3 class="description"><i>Presenting in Chicago<br> at Society for Neuroscience, 2019</i></h3><br>
 
