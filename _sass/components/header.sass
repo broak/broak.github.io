@@ -1,25 +1,35 @@
 .header-home
     display: block
-    margin: 0 auto
+    margin: 0 auto 0 auto
     text-align: center
     position: relative
     z-index: 99
 
     > .link > .selfie
-        width: 125px
-        height: 125px
+        width: 150px
+        height: 150px
+        padding: 0
+        border: 0
         margin-bottom: 25px
         border-radius: 100%
+        box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2), 0 30px 60px 0 rgba(0, 0, 0, 0.19)
         transition: all .2s
         opacity: 1
 
         &:hover
+            width: 145px
+            height: 145px
+            padding: 0
+            border: 0
+            margin-top: 0px
+            margin-bottom: 30px
             box-shadow: 0 0px 4px 0 rgba(0,0,0,0.18), 0 0px 12px 0 rgba(0,0,0,0.15)
             opacity: .8
 
     > .title
         font-size: 4rem
         margin: 0 0 13px
+        color: $delta
 
     > .description
         font-size: 1.85rem
@@ -39,3 +49,69 @@
     text-align: center
     position: relative
     z-index: 99
+
+    > .link > .selfie
+        width: 300px
+        height: 300px
+        margin-bottom: 25px
+        border-radius: 25px
+        box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2), 0 30px 60px 0 rgba(0, 0, 0, 0.19)
+        transition: all .2s
+        opacity: 1
+
+        &:hover
+            width: 295px
+            height: 295px
+            margin-top: 5px
+            margin-bottom: 30px
+            box-shadow: 0 0px 4px 0 rgba(0,0,0,0.18), 0 0px 12px 0 rgba(0,0,0,0.15)
+            opacity: .8
+
+    > .description
+        font-size: 1.85rem
+        font-weight: 300
+        font-style: normal
+        color: $gama
+        width: 70%
+        margin: 0 auto 30px
+
+        // if you put some links in your bio. ;)
+        a
+            font-weight: 200
+            color: $gama
+            text-decoration: none   
+
+.header-resume
+    display: block
+    margin: 0 auto
+    text-align: center
+    position: relative
+    z-index: 99
+
+    > .link > .selfie
+        width: 300px
+        height: 500px
+        object-fit: cover
+        margin-bottom: 25px
+        border-radius: 25px
+        box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2), 0 30px 60px 0 rgba(0, 0, 0, 0.19)
+        transition: all .2s
+        opacity: 1
+
+        // &:hover
+        //     box-shadow: 0 0px 4px 0 rgba(0,0,0,0.18), 0 0px 12px 0 rgba(0,0,0,0.15)
+        //     opacity: .8     
+
+    > .description
+        font-size: 1.85rem
+        font-weight: 300
+        font-style: normal
+        color: $gama
+        width: 70%
+        margin: 0 auto 30px
+
+        // if you put some links in your bio. ;)
+        a
+            font-weight: 200
+            color: $gama
+            text-decoration: none               

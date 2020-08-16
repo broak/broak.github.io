@@ -5,21 +5,26 @@ layout: page
 <!-- ![Profile Image]({% if site.external-image %}{{ site.picture }}{% else %}{{ site.url }}/{{ site.picture }}{% endif %}) -->
 <header class="header-about {% if site.animation %}animated{% endif %}">
 
-<img src="../assets/images/profile2.jpg" alt="Me looking at a computer, like I can't believe what I'm seeing, with a Snapchat filter of a puppy on my face">
+<a class="link" href="{{ site.url }}//">
+    <img class="selfie" alt="Me looking at a computer, like I can't believe what I'm seeing, with a Snapchat filter of a puppy on my face" src="../assets/images/profile2.jpg" />
+</a>
+<!-- <img src="../assets/images/profile2.jpg" alt="Me looking at a computer, like I can't believe what I'm seeing, with a Snapchat filter of a puppy on my face"> -->
 
-<h3>doomscrolling twitter in 2020</h3>
+<h3 class="description"><i>me doomscrolling twitter in 2020</i></h3>
 
 </header>
 
 <!-- ![Me looking at a computer, like I can't believe what I'm seeing, with a Snapchat filter of a puppy on my face](../assets/images/profile2.jpg) -->
 
 <br>
+**If you're reading this, I'm guessing (*hoping*) you're a recruiter, or perhaps a mate who wants to give me some feedback on how my site is looking. Or maybe you're just some rando, though I guess that's fine too.**
+
 **I'm a computational neuroscientist by training, where I specialise in performing time-series analyses of complex neural data. In my research, I'm interested in how visual information is encoded and transformed within the brain, and more broadly, how interconnected cortical areas communicate in an efficient and selective manner.<br>
 <br>
 *Basically*, I want to know how our brains generate our visual perception of the world around us.**<br>
 
 ---
-## What Worries Me
+## What's Been Worrying Me
 - The seemingly never-ending [expansion of surveillance capitalism](https://www.goodreads.com/book/show/26195941-the-age-of-surveillance-capitalism).
 - We are living in a [post-truth world](https://www.goodreads.com/book/show/36702245-post-truth), and [it's our own fault](https://www.newscientist.com/article/mg23030763-000-free-speech-has-met-social-media-with-revolutionary-results/).
 - COVID is [accelerating societal changes](https://www.marketwatch.com/story/coronavirus-is-accelerating-big-changes-in-the-way-americans-live-2020-03-12) faster than we can prepare for.
@@ -31,7 +36,7 @@ layout: page
 - Increasing acceptance of remote work and [work-from-home could be a boon to previously underserved communities](https://thehill.com/opinion/technology/510123-googles-work-from-home-extension-could-be-a-boon-for-rural-america).
 
 ---
-## Currently On My Radar
+## Stuff Currently On My Radar
 #### Podcasts:
 - **[Pivot](https://podcasts.apple.com/us/podcast/pivot/id1073226719)** - *Hosted by Kara Swisher and Scott Galloway*
     - Tech, politics, and business news. Frequent interviews with thought leaders, politicians and executives, plus interesting predictions.

@@ -3,16 +3,27 @@ title: Resume
 layout: page
 ---
 
-# Brian Oakley
+<header class="header-resume {% if site.animation %}animated{% endif %}">
+
+<a class="link">
+    <img class="selfie" alt="Me looking at a computer, like I can't believe what I'm seeing, with a Snapchat filter of a puppy on my face" src="../assets/images/sfn_poster.jpg" />
+</a>
+<h3 class="description"><i>Presenting in Chicago<br> at Society for Neuroscience, 2019</i></h3><br>
+
+<h1>Brian Oakley</h1>
+<h3 class="description"><a href="http://www.linkedin.com/in/broak">LinkedIn</a>  |  <a href="http://www.github.com/broak">GitHub</a></h3><br>
+<br>
+
+</header>
 
 ## Biography
 
 <br>
-I'm a computational neuroscientist by training, where I specialise in performing time-series analyses of complex neural data. In my research, I'm interested in how visual information is encoded and transformed within the brain, and more broadly, how interconnected cortical areas communicate in an efficient and selective manner. Basically, I want to know how our brains generate our visual perception of the world around us.
+I'm a computational neuroscientist by training, where I specialise in performing time-series analyses of complex neural data. In my research, I'm interested in how visual information is encoded and transformed within the brain, and more broadly, how interconnected cortical areas communicate in an efficient and selective manner. *Basically*, I want to know how our brains generate our visual perception of the world around us.
 
 While working on my research project, I teach undergraduate neuroscience and biomedical science, religiously follow tech and business news, and endlessly listen to podcasts and audiobooks (much to my partner's dismay!). I'm also obsessed with virtual and augmented reality, and own more headsets than I know what to do with.
 
-I’m aiming to finish my PhD in 2020, and I aspire to work in a data science or analytics role after receiving my doctorate. 
+I will finish my PhD in 2020, and I aim to work on a project that really gets me into a [flow state](http://positivepsychology.org.uk/living-in-flow), in a data science or analytics role after receiving my doctorate.
 
 ---
 ## Work Experience
@@ -21,7 +32,7 @@ I’m aiming to finish my PhD in 2020, and I aspire to work in a data science or
 ***PhD Scholar - Neural Data Scientist***<br>
 ***Full Time - Monash University - 2017-2020 (ongoing)***<br>
 <br>
-Developed custom software for time-series neural data analysis and visualization for our computational vision neuroscience laboratory, as well as developed pipelines for processing and visualising large amounts of data using supercomputing clusters. Presented at numerous meetings and conferences, effectively translating complex neurophysiological, statistical and mathematical concepts for a range of audiences. Performed public outreach during National Science Week 2018, giving a public talk about visual illusions and neural processing, with the aim of promoting the Monash School of Biomedical Science.
+Developed custom software for time-series neural data analysis and visualise hypothesis-driven metrics as a member of the Brain Networks and Behaviour laboratory. I also developed pipelines for processing many terabytes of data using supercomputing clusters. I effectively translated complex neurophysiological, statistical and mathematical concepts for a range of audiences. I have communicated my findings to world experts at numerous meetings and conferences, and performed public outreach during National Science Week 2018, giving a public talk about visual illusions and neural processing.
 
 <br>
 <br>
@@ -33,7 +44,7 @@ Here I ran labs, tutorials and workshops for undergraduate medicine, physiology 
 <br>
 <br>
 ***Genius Admin***<br>
-***Part Time - Apple Inc - 2012-2017***<br>
+***Part Time - Apple Retail - 2012-2017***<br>
 <br>
 Worked in a small admin team to manage inventory, allocation and prioritization of repairs, and the contact of customers regarding updates and delays, as well as being the point of call during escalations or technical issues. Developed new auditing pipelines which reduced part count errors and increased productivity by optimizing repetitive daily tasks.
 
@@ -78,19 +89,20 @@ Studied Film and Television production, with a focus on producing and editing ro
 
 <br>
 ***Software Development***
-- Expert in MATLAB
-	- Experienced using Psychophysics, Circular Statistics and Signal Processing Toolboxes
-- Highly proficient in GitHub
-	- (this website is hosted using GitHub pages!)
-- Proficient in Python, including TensorFlow, Pandas, PyCharm, Matplotlib packages, among others
+- MATLAB
+	- Including experience using Psychophysics, Circular Statistics and Signal Processing Toolboxes
+- Python
+	- Including experience using TensorFlow, Pandas, and Matplotlib packages
 - SQL
+- GitHub
 - Bash
 - Markdown
-- HTML and CSS
+- HTML5 and CSS/SASS
+- SLURM
 
 <br>
 ***Technical and Analysis***
-- Advances Statistics
+- Advanced Statistics
 - High Performance Computing (SLURM)
 - Power BI
 - SPSS
@@ -99,7 +111,7 @@ Studied Film and Television production, with a focus on producing and editing ro
 ***Productivity Software***
 - Microsoft Office
 - Adobe Creative Suite
-- Trello/Jira
+- Trello / Jira
 
 <br>
 ***Professional and Soft Skills***
