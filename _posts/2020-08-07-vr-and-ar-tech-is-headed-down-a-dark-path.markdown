@@ -7,7 +7,7 @@ headerImage: false
 tag:
 - virtual reality
 - surveillance capitalism
-star: true
+star: false
 category: blog
 author: broak
 description: Like social-media before it, if we're not careful, VR could become just as nightmarish.
@@ -21,7 +21,7 @@ Companies have a fiduciary duty to their shareholders to stay profitable and con
 
 Right now, when the general public think of AR, they likely think of “Pokemon GO”. This isn’t surprising, given the clear absence of killer apps in the space. Even the latest iPad Pro, featuring a combination of computer vision and LIDAR, provides a merely *acceptable* level of presence with rudimentary scene recognition and object occlusion. And even then, the current hardware is at least a year ahead of meaningfully useful software. End users don’t care *how* their device does what it does, they only care whether what it does is valuable to them. But AR tech is moving quickly, and with companies like Facebook (with their Oculus division) and Apple investing vast amounts into this space, we’re going to see rapid developments unlike any seen since the first iPhone. Whether these developments end up being a net-positive or negative for our society is yet to be seen.
 
-## Two competing business models
+### Two competing business models
 
 If you want to start a tech company, you have two business models to choose from: sell *products*, or sell *data*.
 
@@ -37,7 +37,7 @@ Let’s imagine you’ve got the latest set of smart glasses from Facebook.
 
 Say you were wearing these glasses as you walked down an aisle of a store. Every subtle glance at an object would be recorded, quantified and correlated with your bio-metrics and past behavior. Stare at a pack of [Tim-Tams](https://en.wikipedia.org/wiki/Tim_Tam) for a split-second longer than you otherwise would have, and the headset correlates that statistically significant increase in *gaze duration* with a simultaneous *micro-dilation of your pupils*, and tiny, but meaningful increases in *heart rate* and *skin conductivity*. A few short seconds later you get an AR notification of a discount on Tim-Tams if you scan your loyalty card at the checkout (yet another form of behavioral data collection). In essence, what we have is a *nightmarishly* effective tool for behavioral modification — [a task our smartphones currently serve](https://www.wired.co.uk/article/the-age-of-surveillance-capitalism-facebook-shoshana-zuboff), but on steroids.
 
-## It’s going to happen whether we like it or not
+### It’s going to happen whether we like it or not
 
 I described these two alternative business models earlier as if they were somehow mutually exclusive — but we know this is not the case. The world we live in is rife with systemic inequalities and this is yet another example. Those fortunate enough to be able to afford the most expensive options are likely to own devices or subscribe to service tiers that provide increased privacy in the form of greatly reduced data collection and ad-targeting. You could buy an iPhone if you can afford the premium, or you can save money but accept Google’s default settings which keep track of your [location, browsing, search and messaging histories](https://www.wired.com/story/google-tracks-you-privacy/). You could pay a monthly fee for your apps, or instead use the free tier, which is paid for by tracking your searches and movements across the web, and targeting you with advertisements.
 

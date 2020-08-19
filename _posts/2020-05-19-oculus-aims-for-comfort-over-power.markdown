@@ -7,7 +7,7 @@ headerImage: false
 tag:
 - virtual reality
 - future tech
-star: true
+star: false
 category: blog
 author: broak
 description: Amid the working-from-home surge caused by COVID-19, Facebook announced new VR productivity apps will soon appear on the Oculus Quest…
@@ -21,7 +21,7 @@ This week Facebook [announced it would start accepting productivity apps in the 
 
 The global pandemic has forced many people to swiftly adapt to a life of working, studying and socializing remotely. So far this meant video conferencing has become a primary mode of communication ([a boon for companies such as Zoom](https://www.marketwatch.com/story/zoom-microsoft-cloud-usage-are-rocketing-during-coronavirus-pandemic-new-data-show-2020-03-30)), though how effective this is as a substitute for the “real thing” is debatable. Virtual reality (and it’s close cousin augmented reality) offer an experience of ‘presence’ not possible with the traditional computing platforms most commonly used today. [This is the fundamental pitch Mark Zuckerberg made at Oculus Connect 6 in 2019](https://www.youtube.com/watch?v=RCB_mfGmh9w&t=3179s), where he explains a primary goal of Oculus is to create “a future that defies distance” — an idea so eerily fortuitous I’m surprised I haven’t heard his name being thrown around with the numerous COVID-19-related conspiracy theories we’ve been seeing lately. In any case, the fact that Oculus is aiming to be the next computing platform is telling, and highlights a fundamental distinction between their strategy, and that of their closest competitor in the virtual reality space, Valve.
 
-## **Low-friction is key.**
+### **Low-friction is key.**
 
 Both Oculus and Valve make HMDs (head-mounted displays), and both run digital distribution platforms serving software to be bought and used on their hardware. At present, the vast majority of this software is aimed at gamers and tech early-adopters, which makes sense given the origins of both of these companies. But while Valve has continued to make their headsets better for the gaming market, Oculus has been gradually pivoting their hardware away from it’s PC-reliant roots. The first generation of headsets required both a powerful PC, and external tracking beacons to produce a convincing, six-degrees-of-freedom (room-scale) experience — and this is still the case for Valve’s latest — the Index (albeit with more accurate tracking, higher display refresh-rates and a larger field-of-view).
 
@@ -29,7 +29,7 @@ In contrast, Oculus has traded the tracking accuracy afforded by external beacon
 
 These hardware trade-offs all result in one major advantage for Oculus — *reducing friction*. You put the headset on, and it turns on immediately. You can be standing, sitting, lying in bed, it doesn’t matter — the headset senses you are wearing it and switches on immediately, no cables to plug in or PC to boot up. Recently they even updated the software so you don’t need to use the bundled controllers to navigate the interface, a potential point of friction for users unfamiliar with the buttons, thumb-sticks and triggers commonly featured on game controllers. Instead, the headset recognizes your hands automatically, and you can browse the web, watch videos, and in the near future, play certain games without ever touching the controllers. The aim to reduce friction is a strategy that ensures the product is *accessible to the broadest demographic* possible, and it has worked wonders for companies such as Apple (the iPod, iPhone and AirPods), Amazon (Alexa, Kindle), and perhaps most recently, Zoom (with their popular, no-install video conferencing platform), just to name a few. These products are *simple to use by design*, and as a result they have each become ubiquitous.
 
-## **Cheaper, Lighter, Faster.**
+### **Cheaper, Lighter, Faster.**
 
 Creating a new computing platform is not easy, even if you have billions to pour into the project (just ask Microsoft and their disastrous Windows Phone operating system). At the core of this is a chicken-and-egg problem. To entice consumers into buying your hardware, you need great software and experiences — but to attract the developers needed to build this software, you need a large active consumer base. For years VR has struggled with this problem (and it arguably still is struggling), but Oculus appears to have finally overcome the hurdle somewhat. The all-in-one Oculus Quest costs $399, a far-cry from the $999 Valve Index which also requires a gaming PC to use. The Quest features a large library of software available for purchase, [has sold over $100 million worth of games and apps in its first year](https://www.roadtovr.com/oculus-quest-app-revenue-100-million-sales-first-year/) (a great sign for developers) and the headsets are selling “as fast as [they] can make them”, [according to Mark Zuckerberg, himself](https://investor.fb.com/investor-events/event-details/2019/Facebook-Q2-2019-Earnings/default.aspx).
 

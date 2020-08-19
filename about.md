@@ -17,7 +17,15 @@ layout: page
 <!-- ![Me looking at a computer, like I can't believe what I'm seeing, with a Snapchat filter of a puppy on my face](../assets/images/profile2.jpg) -->
 
 <br>
-**If you're reading this, I'm guessing (*hoping*) you're a recruiter, or perhaps a mate who wants to give me some feedback on how my site is looking. Or maybe you're just some rando, though I guess that's fine too.**
+## NAME: Brian Oakley
+## AGE: 28 *(but my knees crack like I'm 75)*
+## LOCATION: Melbourne, Victoria, AUS 3000
+## CITIZENSHIP: Australian
+## PRONOUNS: He/Him
+## COFFEES PER DAY: 3 ± 1
+
+---
+**I was originally born in the Philippines, but moved to Australia very early on. Growing up in rural Victoria, I was always interested in science, technology and art, and eventually recieved a scholarship to Goulburn Valley Grammar School where I graduated in 2009. Since then, I have completed two bachelors degrees: one in Film and Television, where I explored my passion for visual design, storytelling and multimedia; and one in Science, where I graduated my honours year with a 4.0 GPA. I am currently working on my PhD thesis, which will be completed by the end of 2020.**
 
 **I'm a computational neuroscientist by training, where I specialise in performing time-series analyses of complex neural data. In my research, I'm interested in how visual information is encoded and transformed within the brain, and more broadly, how interconnected cortical areas communicate in an efficient and selective manner.<br>
 <br>
