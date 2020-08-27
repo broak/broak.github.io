@@ -31,10 +31,10 @@ I will finish my PhD in 2020 and I aim work in the tech or business sector in a 
 <br>
 ***Software Development***
 - Python
-	- Including experience using TensorFlow, Pandas, and Matplotlib packages
+	- Including experience using Pandas, Numpy, TensorFlow, SKLearn and Matplotlib packages
+- SQL	
 - MATLAB
 	- Including experience using Psychophysics, Circular Statistics and Signal Processing Toolboxes
-- SQL
 - GitHub
 - Bash
 - Markdown
@@ -44,7 +44,7 @@ I will finish my PhD in 2020 and I aim work in the tech or business sector in a 
 <br>
 ***Technical and Analysis***
 - Advanced Statistical Analysis
-	- Linear and logistic regression, A/B hypothesis testing, clustering
+	- Linear and logistic regression, A/B hypothesis testing, clustering, ML(Gradient Boosting, Random Forests)
 - High Performance Computing (SLURM)
 - Business Intelligence tools such as Power BI
 - Statistical Analysis tools such as SPSS
